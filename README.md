@@ -9,7 +9,7 @@
 💻 Interested in backend & frontend development (with stronger interest in backend), system administration and networking.<br>
 🧐 Always curious about new technologies.
 
-🔰Latest Project : [Click here](https://github.com/EthanEnigma/TacosyMas)
+🔰Latest Project : [Click here](https://github.com/EthanEnigma/Wizard_Madness)
 
 <br>
 <br>
