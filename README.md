@@ -5,7 +5,7 @@
 # 🚀 About Me :
 
 👋 Hello, I'm Ethan Legris.<br>
-🎓 I'm currently a 2nd year computer science student in Enigma School, France.<br>
+🎓 I'm currently a 3rd year computer science student in Enigma School, France.<br>
 💻 Interested in backend & frontend development (with stronger interest in backend), system administration and networking.<br>
 🧐 Always curious about new technologies.
 
